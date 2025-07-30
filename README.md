@@ -45,7 +45,7 @@ src/
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Priya-8093/Recipes-Platform.git
-   cd Yummify
+   cd Food-Recipes
 
 npm install
 npm run dev
