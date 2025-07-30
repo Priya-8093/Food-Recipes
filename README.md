@@ -1,5 +1,3 @@
-# Food-Recipes
-
 \# 🍽️ Yummify – Food Recipe Sharing Platform
 
 Yummify is a modern, user-friendly web application built with **React**, designed for discovering, creating, and sharing food recipes. Whether you're a home cook or a food enthusiast, Yummify offers a seamless experience to explore various dishes, organize favourites, and contribute your own culinary creations.
