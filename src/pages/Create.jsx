@@ -39,7 +39,7 @@ const Create = () => {
     <div className='flex h-[100vh] bg-[#101828] w-full'>
 
       <div className='w-1/2  '>
-        <img className='w-full h-[100vh] object-contain hover:scale-105' src="/public/assets/pngwing.com.png" alt="" />
+        <img className='w-full h-[100vh] object-contain hover:scale-105' src="/assets/pngwing.com.png" alt="" />
 
       </div>
 
